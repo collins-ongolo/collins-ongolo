@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Collins Ongolo
 
-<!--
-**collins-ongolo/collins-ongolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year Computer Science student at Chuka University (Kenya), passionate about building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Leave Management System** – Flask-based platform with role-based access  
+- 🧠 **Facial Recognition Attendance** – Replaces signing sheets for ELDOWAS staff  
+- 🛋️ **Smart Furniture Ordering System** – Real-time progress tracking with Node.js & Angular  
+- 🗺️ **Chuka University Guide App** – Android app for campus navigation
+
+## 🛠️ Skills
+
+`Python` `Flask` `HTML` `CSS` `JavaScript` `MySQL` `Angular` `GitHub` `UI/UX Design`
+
+## 📫 Let's Connect
+
+- 🌐 [ONGOLO.NETLIFY.APP](https://ongolo.netlify.app)  
+- 📧 collinsongolo@gmail.com
+
+
